@@ -43,3 +43,5 @@ Self-taught developer learning my way into **web development** — building real
 </p>
 
 <p align="center"><i>Thanks for stopping by — always happy to connect and keep learning. 🚀</i></p>
+
+<!-- profile -->
