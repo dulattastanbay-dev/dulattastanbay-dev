@@ -38,10 +38,4 @@ Self-taught developer learning my way into **web development** — building real
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dulattastanbay-dev&show_icons=true&hide_border=true" alt="Dulat's GitHub stats" />
-</p>
-
 <p align="center"><i>Thanks for stopping by — always happy to connect and keep learning. 🚀</i></p>
-
-<!-- profile -->
