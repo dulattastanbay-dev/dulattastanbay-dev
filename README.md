@@ -20,9 +20,9 @@ Self-taught developer learning my way into **web development** — building real
 
 ### 🚀 A few things I've built
 
-- **[steel-ball-run](https://github.com/dulattastanbay-dev/steel-ball-run)** — a React + Vite app
-- **[air-canvas](https://github.com/dulattastanbay-dev/air-canvas)** — draw with hand gestures using Python, OpenCV & MediaPipe
-- **[focus-guardian](https://github.com/dulattastanbay-dev/focus-guardian)** — a focus tracker built with Python computer vision
+- **[steel-ball-run](https://github.com/dulattastanbay-dev/steel-ball-run)** — a web app
+- **[air-canvas](https://github.com/dulattastanbay-dev/air-canvas)** — draw with hand gestures using your webcam
+- **[focus-guardian](https://github.com/dulattastanbay-dev/focus-guardian)** — a webcam-based focus tracker
 - **[visual-physics](https://github.com/dulattastanbay-dev/visual-physics)** — a physics visualizer in JavaScript
 - **[pathfinding-visualizer](https://github.com/dulattastanbay-dev/pathfinding-visualizer)** — pathfinding algorithms, visualized in the browser
 
